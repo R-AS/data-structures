@@ -3,7 +3,7 @@ var submit = document.getElementById("submit");         //submit button
 var lineUp = document.getElementById("lineUp");        //line up button
 var plane = document.getElementById("plane");           //plane seat area
 
-var sorted = [];                                        //queue is sorted
+var sorted;                                        //queue is sorted
 
 //click to arrange seat
 submit.onclick = function() {
