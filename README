@@ -1,5 +1,7 @@
 数据结构与算法 JavaScript实现
-1.队列
-	test: (队列)
-	priority: (有优先权的队列排序)
-	queue：ticket（模拟售票排队，按票价排序）
+1.队列  queue：
+	  test: (队列)
+	  priority: (有优先权的队列排序)
+	  ticket：（模拟售票排队，按票价排序）
+	  drumming: (击鼓传花游戏)
+	
